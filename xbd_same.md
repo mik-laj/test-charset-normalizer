@@ -1,0 +1,9 @@
+| trangvangtructuyen.vn | utf-8 | utf_8 |
+| trangvangvietnam.com | utf-8 | utf_8 |
+| transport-online.nl | ascii | ascii |
+| transport-publiczny.pl | UTF-8-SIG | utf_8_sig |
+| travel.co.jp | SHIFT_JIS | shift_jis |
+| travelbook.co.jp | ascii | ascii |
+| travelguide.sk | utf-8 | utf_8 |
+| travelland.rs | utf-8 | utf_8 |
+| traveltriangle.com | utf-8 | utf_8 |

@@ -1,0 +1,15 @@
+| catalog.bg | windows-1251 | cp1251 |
+| catalogo.med.br | ISO-8859-1 | cp1252 |
+| ceroacero.es | Windows-1252 | cp1252 |
+| chabad.org.il | windows-1255 | cp1255 |
+| chacodiapordia.com | None | utf-8 |
+| chalupnikovi.com | ISO-8859-1 | cp1250 |
+| chicco.pt | Windows-1254 | utf_8 |
+| chilango.com | Windows-1254 | utf_8 |
+| cifras.com.br | ISO-8859-1 | cp1252 |
+| citatum.hu | ISO-8859-1 | cp1250 |
+| claroshop.com | ISO-8859-1 | utf_8 |
+| codigoespagueti.com | Windows-1254 | utf_8 |
+| computerbild.de | Windows-1252 | cp1250 |
+| comune.torino.it | Windows-1252 | iso8859_14 |
+| comuni-italiani.it | ISO-8859-1 | cp1252 |

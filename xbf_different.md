@@ -1,0 +1,14 @@
+| vietgiaitri.com | utf-8 | None |
+| vivo.com.br | utf-8 | None |
+| votpusk.ru | windows-1251 | cp1251 |
+| vovve.net | Windows-1252 | iso8859_14 |
+| vroom.be | None | utf-8 |
+| vrum.com.br | ISO-8859-1 | cp1252 |
+| vsetkyfirmy.sk | Windows-1254 | cp1250 |
+| weekendhobby.com | TIS-620 | iso8859_11 |
+| wegointer.com | Windows-1254 | utf_8 |
+| weltbild.at | utf-8 | None |
+| weltbild.ch | utf-8 | None |
+| weltbild.de | utf-8 | None |
+| wemystic.com.br | utf-8 | None |
+| wikimapia.org | ISO-8859-1 | utf_8 |

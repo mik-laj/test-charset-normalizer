@@ -1,0 +1,11 @@
+| skipthedishes.com | ascii | ascii |
+| skrunda.lv | utf-8 | utf_8 |
+| sladicagora.xyz | ascii | ascii |
+| slbenfica.pt | ascii | ascii |
+| sleeping-out.co.za | ascii | ascii |
+| sli.se | utf-8 | utf_8 |
+| slotrips.si | ascii | ascii |
+| smartcompany.com.au | ascii | ascii |
+| smartepenger.no | ascii | ascii |
+| smarticular.net | utf-8 | utf_8 |
+| smm.lt | utf-8 | utf_8 |

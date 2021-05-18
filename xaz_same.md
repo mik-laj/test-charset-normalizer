@@ -1,0 +1,17 @@
+| salute.gov.it | ascii | ascii |
+| samobor.hr | utf-8 | utf_8 |
+| sams.com.mx | ascii | ascii |
+| sancarlosdigital.com | ascii | ascii |
+| sandiegouniontribune.com | ascii | ascii |
+| sanistaal.com | ascii | ascii |
+| sanspo.com | utf-8 | utf_8 |
+| santacruz.gob.bo | ascii | ascii |
+| sanwa.co.jp | SHIFT_JIS | shift_jis |
+| saopaulo.sp.gov.br | ascii | ascii |
+| sap.com | utf-8 | utf_8 |
+| saperesalute.it | utf-8 | utf_8 |
+| sarealacademy.co.za | utf-8 | utf_8 |
+| sassymamasg.com | ascii | ascii |
+| sav.sk | utf-8 | utf_8 |
+| savaite.lt | utf-8 | utf_8 |
+| savenmaa.fi | ascii | ascii |

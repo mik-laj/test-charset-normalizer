@@ -1,0 +1,14 @@
+| geoportal360.pl | utf-8 | utf_8 |
+| geosnews.com | utf-8 | utf_8 |
+| getit.co.il | ascii | ascii |
+| gidonline.io | utf-8 | utf_8 |
+| gifi.fr | ascii | ascii |
+| giftly.com | ascii | ascii |
+| gigalekaren.sk | utf-8 | utf_8 |
+| gigalekarna.cz | utf-8 | utf_8 |
+| ginasoc.lv | utf-8 | utf_8 |
+| gintarobaldai.lt | utf-8 | utf_8 |
+| giphy.com | ascii | ascii |
+| gisline.no | ascii | ascii |
+| gjensidige.no | utf-8 | utf_8 |
+| gla.ac.uk | utf-8 | utf_8 |

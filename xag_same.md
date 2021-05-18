@@ -1,0 +1,12 @@
+| contact.bg | ascii | ascii |
+| contrataciondelestado.es | ascii | ascii |
+| coocan.jp | utf-8 | utf_8 |
+| cookdoor.jp | ascii | ascii |
+| coolpriser.dk | utf-8 | utf_8 |
+| coolshop.com | ascii | ascii |
+| coolshop.rs | utf-8 | utf_8 |
+| coomeva.com.co | utf-8 | utf_8 |
+| coopshop.it | utf-8 | utf_8 |
+| cordvida.com.br | ascii | ascii |
+| cornell.edu | utf-8 | utf_8 |
+| correiobraziliense.com.br | utf-8 | utf_8 |

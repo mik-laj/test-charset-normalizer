@@ -1,0 +1,10 @@
+| ulac.lt | utf-8 | utf_8 |
+| ultimasnoticias.com.ve | ascii | ascii |
+| ultratop.be | ascii | ascii |
+| umfcluj.ro | ascii | ascii |
+| umin.ac.jp | utf-8 | utf_8 |
+| umk.pl | utf-8 | utf_8 |
+| uncu.edu.ar | utf-8 | utf_8 |
+| uncuyo.edu.ar | utf-8 | utf_8 |
+| uner.edu.ar | utf-8 | utf_8 |
+| unesa.ac.id | utf-8 | utf_8 |

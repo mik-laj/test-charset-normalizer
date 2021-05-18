@@ -1,0 +1,17 @@
+| bonde.com.br | Windows-1252 | iso8859_15 |
+| bookaris.com | Windows-1252 | cp1252 |
+| bookme.co.nz | ISO-8859-1 | utf_8 |
+| bouwenwonen.net | Windows-1252 | iso8859_10 |
+| bsearch.be | ISO-8859-1 | None |
+| bsi.ac.id | ascii | big5 |
+| bsu.by | None | utf-8 |
+| bucatareselevesele.ro | Windows-1254 | utf_8 |
+| bulgarianproperties.bg | windows-1251 | cp1251 |
+| businessnewsdaily.com | utf-8 | None |
+| busyteacher.org | Windows-1252 | cp1251 |
+| buu.ac.th | ascii | utf_16 |
+| bvs.br | ISO-8859-1 | cp1252 |
+| c3.hu | utf-8 | big5 |
+| careerlauncher.com | Windows-1252 | utf_8 |
+| carfax.com | utf-8 | cp932 |
+| carzone.co.il | Windows-1254 | utf_8 |
